@@ -29,10 +29,6 @@ function Content({ showForm, setShowForm }) {
           <button className="border border-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-black">
             Read More
           </button>
-
-          <a href="https://github.com/ramanchauhan13/test/releases/download/test/videoplayback.mp4" className="border border-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-black">
-            Download Video
-          </a>
            
         </div>
       </div>
