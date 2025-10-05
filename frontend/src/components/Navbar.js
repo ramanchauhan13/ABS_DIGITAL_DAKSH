@@ -13,7 +13,7 @@ const Navbar = ({ setShowForm }) => {
           <li><Link to="/services" className="hover:text-gray-300">Services</Link></li>
           <li><Link to="/about" className="hover:text-gray-300">About</Link></li>
         </ul>
-        {location.pathname === "/" && (
+        {(
           <button
             onClick={() => setShowForm(true)}
             className="bg-white text-black px-4 py-2 rounded-full shadow-md hover:bg-gray-200"
