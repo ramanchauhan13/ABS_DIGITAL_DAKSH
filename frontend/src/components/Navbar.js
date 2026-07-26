@@ -58,10 +58,10 @@ const Navbar = ({ setShowForm, setSelectedService }) => {
           </div>
           <div className="flex flex-col">
             <span className="font-serif text-xl font-bold tracking-wider text-white group-hover:text-amber-300 transition-colors">
-              ABS DIGITAL
+              SUTTER COUNT
             </span>
             <span className="text-[10px] tracking-[0.25em] text-amber-400 uppercase font-semibold -mt-1">
-              Daksh Photography
+              PHOTOGRAPHY
             </span>
           </div>
         </Link>
